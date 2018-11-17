@@ -1,0 +1,4 @@
+Image			Original File Size (KB)		Num. Principal Components	Image Quality																	Image Size (KB)
+Image 1			356							500							Looks almost original															268
+Image 4			252							100							Blurry in some parts, some pixelated areas										31
+Image 5			280							100							Some pixelation/warping, but overall clear										138
